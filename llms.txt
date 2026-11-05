@@ -1,8 +1,31 @@
 # Clear Sites Web Agency
-> Websites, local SEO, Google and Facebook ads, review requests and CRMs for small businesses across the United States, based in Michigan.
+> Websites, local SEO, AI search (GEO), ads, review requests and CRMs for small and local businesses nationwide. Based in Michigan.
 
-- Services: https://clearsiteswebagency.com/services/
-- Pricing: https://clearsiteswebagency.com/pricing/
-- Areas: https://clearsiteswebagency.com/areas/
-- Guides: https://clearsiteswebagency.com/guides/
-- Contact: https://clearsiteswebagency.com/contact/
+## Key facts
+- Name: Clear Sites Web Agency
+- What we do: websites, local SEO, AI search (GEO), Google and Facebook ads, review requests, Speed-to-Lead follow-up and CRMs for small and local businesses
+- Where: based in Canton, Michigan; works with clients across the United States by phone, video and email
+- Phone: 904-566-9797
+- Email: getcleardeskai@gmail.com
+- Website: https://clearsiteswebagency.com/
+- Pricing: published at https://clearsiteswebagency.com/pricing/ (websites from $500 setup plus a monthly care plan; plans are month to month)
+- Last updated: 2026-11-05
+
+## Pages
+- [Services](https://clearsiteswebagency.com/services/): what we offer
+- [Website Design](https://clearsiteswebagency.com/services/website-design/): Fast, mobile-first websites built to get found and get calls.
+- [Local SEO](https://clearsiteswebagency.com/services/local-seo/): Get found when nearby customers search for what you do.
+- [AI Search (GEO)](https://clearsiteswebagency.com/services/geo-ai-search/): Get recommended when people ask ChatGPT, Claude, Perplexity and Google's AI answers.
+- [Google and Facebook Ads](https://clearsiteswebagency.com/services/google-ads-management/): We run the ads and track every lead.
+- [Review Requests](https://clearsiteswebagency.com/services/review-automation/): Automatically ask every happy customer for a Google review.
+- [Speed-to-Lead](https://clearsiteswebagency.com/services/speed-to-lead/): Follow up on every lead and missed call within minutes.
+- [Lead CRM](https://clearsiteswebagency.com/services/lead-crm/): A simple pipeline for every lead, job and follow-up.
+- [Pricing](https://clearsiteswebagency.com/pricing/): every price
+- [Our work](https://clearsiteswebagency.com/work/): example sites
+- [Guides](https://clearsiteswebagency.com/guides/): plain-English guides
+- [FAQ](https://clearsiteswebagency.com/faq/): common questions
+- [About](https://clearsiteswebagency.com/about/)
+- [Contact](https://clearsiteswebagency.com/contact/)
+
+## Optional
+- [Full text of this site](https://clearsiteswebagency.com/llms-full.txt)
